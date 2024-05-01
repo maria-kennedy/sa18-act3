@@ -1,0 +1,29 @@
+[
+    {
+        "model": "myapp.product",
+        "pk": 1,
+        "fields": {
+            "name": "Gum",
+            "price": "4.99",
+            "description": "35 pack; Flavor: Spearamint"
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 2,
+        "fields": {
+            "name": "Peach Rings",
+            "price": "2.99",
+            "description": "1 bag; Flavor: Peach"
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 3,
+        "fields": {
+            "name": "Diet Coke",
+            "price": "1.99",
+            "description": "1 bottle; Size: 20 oz"
+        }
+    }
+]
